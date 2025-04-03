@@ -36,7 +36,7 @@ The **HaGRID** dataset contains **18 distinct hand gestures**, each represented 
   - **Recall**
   - **F1-Score**
 
-### 7. Real-Time Testing
+### 7. Testing
 - The trained model is tested on images, real-time hand gesture recognition using a **webcam** and also evaluated on **pre-recorded videos** to assess its performance in real-world scenarios.
 
 ## Requirements
